@@ -1,7 +1,14 @@
-# 💫 About Me:
-👋 I'm Farzin.<br>💫 Currently making personal apps and projects.<br>🎓 Learning new skills.<br>🎶 Playing instruments.<br>🎈 And just trying to live :)
+## 👋 Hey, I'm Farzin
 
+I'm a software developer who enjoys building desktop, mobile, and backend applications.
 
+Currently interested in:
+- 🖥️ C++ and Qt desktop development
+- 📱 Flutter cross-platform apps
+- ⚡ Backend development with Go and FastAPI
+- 📡 Raspberry Pi and SDR projects
+
+When I'm not coding, you'll probably find me playing music or experimenting with new ideas.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xFarzin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NerdCastTv) 
 
